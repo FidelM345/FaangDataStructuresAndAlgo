@@ -10,5 +10,5 @@ In short, most top software companies tend to use this kind of **DS and Algorith
 > **Have fun 🙃 and Enjoy Coding 💻**
 > 
 
-### 🗃Project structure
+## 🗃Project structure
 The Languages used for solving the **DS and Algorithm** questions are: **Java and Kotlin**
