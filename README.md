@@ -3,6 +3,7 @@
 |❓ LeetCode Question|🎚 Difficulty Level| 🌐 LeetCode Question link|
 |---|----|---|
 |11. Container With Most Water|Medium|[Check Question LeetCode](https://leetcode.com/problems/container-with-most-water/)|
+|42. Trapping Rain Water|Hard|[Check Question LeetCode](https://leetcode.com/problems/trapping-rain-water/)|
 
 **Note:** <br>
 The source code is contained in the **src** folder. The **src** folder contains both kotlin and java implementation
