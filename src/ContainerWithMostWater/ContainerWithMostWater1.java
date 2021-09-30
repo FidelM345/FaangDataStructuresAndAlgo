@@ -1,6 +1,6 @@
 package ContainerWithMostWater;
 
-public class ContainerWithMostWater1 {
+public class ContainerWithMostWater1  {
     //11. Container With Most Water
     //LeetCode link - https://leetcode.com/problems/container-with-most-water/
   /* Question Description:  Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai). n vertical lines

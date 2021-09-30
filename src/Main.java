@@ -1,5 +1,6 @@
 import ContainerWithMostWater.ContainerWithMostWater1;
 import ContainerWithMostWater.ContainerWithMostWater2;
+import TrappingRainWater.TrappingRainWaterJava;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,7 +14,14 @@ public class Main {
        // System.out.println("The maximum area is: " + answer2);
 
         int answer3 = containerWithMostWater2.maxArea_Optimal1(containerWithMostWater2.getArrayElements());
-        System.out.println("The maximum area is: " + answer3);
+      //  System.out.println("The maximum area is: " + answer3);
+
+
+
+       int elemets[] = {0,1,0,2,1,0,3,1,0,1,2};
+        TrappingRainWaterJava trappingRainWaterJava = new TrappingRainWaterJava();
+        int ans5 = trappingRainWaterJava.trapRainWater_Optimal(elemets);
+        System.out.println("The maximum area is: " + ans5);
 
 
     }
