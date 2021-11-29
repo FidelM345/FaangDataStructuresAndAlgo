@@ -21,7 +21,7 @@ question. For example, the branch called **Arrays** will contain only the array 
 * Strings
 * Linked List
 * Binary Trees
-* Ques
+* Queues
 * Stacks
 * Recursion
 * And many more 😀
